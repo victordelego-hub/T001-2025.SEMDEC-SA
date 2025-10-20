@@ -7,6 +7,6 @@
 | Nome | @ |
 | --- | --- |
 | Willian Sant' Anna | @wssantanna |
-| Victor Hugo Delego Silva| @victordelego-hub |
+| Victor Hugo Delego Silva| @victordelego-hub | 
 
 © Todos os direitos reservados aos [Colaboradores](#colaboradores).
